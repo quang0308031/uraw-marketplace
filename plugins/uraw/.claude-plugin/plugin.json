@@ -1,0 +1,16 @@
+{
+  "name": "uraw",
+  "displayName": "URAW Effort Ladder",
+  "version": "0.1.0",
+  "description": "Answers at the lowest sufficient effort and, only with your consent, verifies claims with parallel web search and verbatim evidence. Certainty is computed by code, not by the model.",
+  "author": {
+    "name": "NGUYEN QUANG"
+  },
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "web-search",
+    "fact-checking",
+    "effort-ladder"
+  ]
+}

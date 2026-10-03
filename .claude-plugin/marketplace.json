@@ -1,0 +1,14 @@
+{
+  "name": "uraw-tools",
+  "description": "Effort Ladder research for Claude Code",
+  "owner": {
+    "name": "NGUYEN QUANG"
+  },
+  "plugins": [
+    {
+      "name": "uraw",
+      "source": "./plugins/uraw",
+      "description": "Answers at the lowest sufficient effort and, only with your consent, verifies claims with parallel web search and verbatim evidence."
+    }
+  ]
+}
